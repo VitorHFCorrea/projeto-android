@@ -137,7 +137,7 @@ main img.pequena{
     max-width: 350px;
     display: block;
     margin: auto;
-    /*imagens por si só não são blocos, magin: auto só funciona quando a colocamos em um bloco (display: block)*/
+    /*imagens por si só não são blocos, margin: auto só funciona quando a colocamos em um bloco (display: block!)*/
 }
 
 main a{
